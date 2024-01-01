@@ -1,5 +1,5 @@
 # 💻desafioSpringBootComponentesEInjecao
-- Esse programa mostra o uso do framework Spring boot para realizar a inversão de controle e injeção de dependência através do container do Framework Spring.
+- Desafio Dev Superior - sobre spring boot, injeção de dependência, inversão de controle
 
 # 🔧 tecnologias e conhecimentos aplicados:
 - 🎯Linguagem Java.
